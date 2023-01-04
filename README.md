@@ -4,8 +4,11 @@ Below are some Test Case Samples that I wrote while working on previous projects
 
 ------------------------------
 
-**Description:** 
+**Title: 
 Text box functionality on Elements page
+
+**Description:** 
+Check if the user can add details into the Text box
 
 **Steps to reproduce:**
 
@@ -25,8 +28,11 @@ Google Chrome
 
 ------------------------------
 
-**Description:** 
+**Title:** 
 Check box functionality on Elements page
+
+**Description:** 
+Test if the user can check/uncheck the boxes 
 
 **Steps to reproduce:**
 
@@ -42,8 +48,11 @@ Google Chrome
 
 ------------------------------
 
+**Title:**
+Add a new employee without filling in all the fields
+
 **Description:** 
-Adding a new employee on Web Tables without completing all the fields
+Check if a new employee on Web Tables can be saved without completing all the fields
 
 **Steps to reproduce:**
 
@@ -64,8 +73,10 @@ Safari
 
 ---------------------------
 
+**Title:** Test login with correct credentials
+
 **Description:** 
-Check the login functionality with the correct Admin credentials
+Check if the login works when a person insert the correct Admin credentials
 
 **Steps to reproduce:**
 
