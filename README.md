@@ -4,7 +4,7 @@ Below are some Test Case Samples that I wrote while working on previous projects
 
 ------------------------------
 
-**Title: 
+**Title:** 
 Text box functionality on Elements page
 
 **Description:** 
