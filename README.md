@@ -5,7 +5,6 @@ Below are some Test Case Samples that I wrote while working on previous projects
 ------------------------------
 
 **Description:** 
-
 Text box functionality on Elements page
 
 **Steps to reproduce:**
@@ -19,17 +18,14 @@ Text box functionality on Elements page
 7. Click on "Submit" button
 
 **Expected results:** 
-
 The new data should be successfully saved
 
 **Environment:** 
-
 Google Chrome
 
 ------------------------------
 
 **Description:** 
-
 Check box functionality on Elements page
 
 **Steps to reproduce:**
@@ -39,18 +35,15 @@ Check box functionality on Elements page
 3. Click on "Yes" option
 
 **Expected results:** 
-
 A new message: "You have selected Yes" should appear below the labels
 
 **Environment:** 
-
 Google Chrome
 
 ------------------------------
 
 **Description:** 
-
-Adding a new employee on Web Tables / Elements page without completing all the fields
+Adding a new employee on Web Tables without completing all the fields
 
 **Steps to reproduce:**
 
@@ -64,21 +57,14 @@ Adding a new employee on Web Tables / Elements page without completing all the f
 8. Click on "Submit" button
 
 **Expected results:** 
-
 All new data should be successfully saved 
 
-**Actual results:** 
-
-The blank fields have become red, as if they were mandatory, but without being mentioned by that symbol * (bug added into BugReports)
-
 **Environment:** 
-
 Safari
 
 ---------------------------
 
 **Description:** 
-
 Check the login functionality with the correct Admin credentials
 
 **Steps to reproduce:**
@@ -88,9 +74,7 @@ Check the login functionality with the correct Admin credentials
 3. Press "Login" button
 
 **Expected results:** 
-
 Admin should be able to login and is taken to the Dashboard page
 
 **Test data:** 
-
 Username: Admin & Password: admin123
