@@ -2,6 +2,26 @@
 
 Below are some Test Case Samples that I wrote while working on previous projects.
 
+
+------------------------------
+
+**Title:** Test login with correct credentials
+
+**Description:** 
+Check if the login works when a person insert the correct Admin credentials
+
+**Steps to reproduce:**
+
+1. Go to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2. Add a correct username & password
+3. Press "Login" button
+
+**Expected results:** 
+Admin should be able to login and is taken to the Dashboard page
+
+**Test data:** 
+Username: Admin & Password: admin123
+
 ------------------------------
 
 **Title:** 
@@ -70,22 +90,3 @@ All new data should be successfully saved
 
 **Environment:** 
 Safari
-
----------------------------
-
-**Title:** Test login with correct credentials
-
-**Description:** 
-Check if the login works when a person insert the correct Admin credentials
-
-**Steps to reproduce:**
-
-1. Go to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2. Add a correct username & password
-3. Press "Login" button
-
-**Expected results:** 
-Admin should be able to login and is taken to the Dashboard page
-
-**Test data:** 
-Username: Admin & Password: admin123
