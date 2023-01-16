@@ -8,7 +8,7 @@ Below are some Test Case Samples that I wrote while working on previous projects
 **Title:** Test login with correct credentials
 
 **Description:** 
-Check if the login works when a person insert the correct Admin credentials
+Check if the login works when a person inserts the correct Admin credentials
 
 **Steps to reproduce:**
 
